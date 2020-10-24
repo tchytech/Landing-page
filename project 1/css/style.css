@@ -199,6 +199,9 @@ a:hover{
     font-size: small;
     padding: 15px;
 }
+small{
+    text-decoration: line-through solid rgb(104, 111, 122);
+ }
 
 footer {
     display: flex;
